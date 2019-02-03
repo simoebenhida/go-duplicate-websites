@@ -1,2 +1,5 @@
-# go-duplicate-websites
-Duplicate a website on your machine with GO
+# Examples
+
+![alt text](/examples/doc.png)
+
+![alt text](/examples/stack.png)!
